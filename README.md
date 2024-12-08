@@ -38,5 +38,4 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Username :-Saurabh</li>
  	<li>Password :-4742</li>
 </ul>
-&nbsp;
-<h3>Installation :</h3>
+
